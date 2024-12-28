@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**simon0x1800/simon0x1800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Simon.
 
-Here are some ideas to get you started:
+Aspiring Web3 developer learning to build dApps and smart contracts with Solidity and Web3.js. Excited to explore blockchain technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go&theme=light)](https://skillicons.dev)
+
+## Blockchain
+
+<img height="50" src="https://github.com/user-attachments/assets/094cc004-c6d6-47ff-800c-393e70bfa762">
+<img height="50" src="https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979">
+<img height="50" src="https://github.com/user-attachments/assets/4ebe4430-a141-4fc5-9ddd-dc5b439177b6">
