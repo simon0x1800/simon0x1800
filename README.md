@@ -16,4 +16,6 @@ Aspiring Web3 developer learning to build dApps and smart contracts with Solidit
 
 ## Socials
 
-<img height="50" src="images/paragraph.png">
+<a href="https://paragraph.xyz/@simon0x1800">
+  <img height="50" src="paragraph.png" >  
+</a>
