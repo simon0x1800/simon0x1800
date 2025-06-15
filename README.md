@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Simon!
 
-An aspiring Web3 developer on an exciting journey to build decentralized applications (dApps) and smart contracts. My passion lies in exploring the vast potential of **blockchain technology** and contributing to the decentralized future.
+An aspiring Web3 developer and curious hacker on an exciting journey to build decentralized applications (dApps) and smart contracts. I thrive on experimenting with code, breaking things to learn how they work, and exploring the edges of blockchain technology.
 
 ---
 
 ## About Me
 
-I'm diving deep into the world of Web3, honing my skills in **Solidity** for crafting secure and efficient smart contracts, and mastering **Web3.js** to bring those contracts to life through intuitive front-end interfaces. I'm fascinated by the underlying mechanics of blockchain and constantly seeking new challenges to expand my knowledge and practical experience.
+I'm deep-diving into Web3 with a hacker's mindset — learning by building, debugging, and reverse-engineering. My focus is on writing secure, efficient smart contracts using **Solidity**, and bringing them to life with **Web3.js** and other front-end tools. I love dissecting protocols and figuring out how to push systems to their limits.
 
 ---
 
@@ -20,7 +20,7 @@ My current toolkit includes a strong foundation in these languages:
 
 ## Blockchain Focus
 
-I'm actively learning and building with these core blockchain technologies:
+I'm actively learning and experimenting with:
 
 <img height="50" src="https://github.com/user-attachments/assets/094cc004-c6d6-47ff-800c-393e70bfa762">
 <img height="50" src="https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979">
@@ -28,18 +28,18 @@ I'm actively learning and building with these core blockchain technologies:
 
 ---
 
-## What I'm Learning / Exploring
+## What I'm Tinkering With
 
-* **Advanced Solidity Patterns**: Delving into upgradeable contracts, proxy patterns, and gas optimization techniques.
-* **DeFi Protocols**: Understanding the mechanics of decentralized finance and how to interact with popular protocols.
-* **Layer 2 Solutions**: Exploring scaling solutions like optimistic rollups and ZK-rollups.
-* **Security Audits**: Learning best practices for writing secure code and identifying vulnerabilities.
+* **Advanced Solidity Patterns** – Proxies, upgradeability, and gas hacks.
+* **DeFi Protocols** – Reverse-engineering on-chain logic to understand value flows.
+* **Layer 2 Solutions** – Playing with ZK rollups, bridging strategies, and EVM quirks.
+* **Security Audits** – Practicing exploit hunting and learning to think like an attacker.
 
 ---
 
 ## Connect with Me
 
-I love connecting with fellow builders and enthusiasts in the Web3 space! Feel free to reach out:
+I'm always down to share code, ideas, or weird bugs. Hit me up:
 
 <a href="https://paragraph.xyz/@simon0x1800">
   <img height="50" src="paragraph.png" >
@@ -47,4 +47,4 @@ I love connecting with fellow builders and enthusiasts in the Web3 space! Feel f
 
 ---
 
-Looking forward to building some amazing decentralized experiences!
+Let's break things, fix them, and build something decentralized together.
