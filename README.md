@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn-ajfbi.nitrocdn.com/GuYcnotRkcKfJXshTEEKnCZTOtUwxDnm/assets/images/optimized/rev-4c7dec3/www.astera.com/wp-content/uploads/2023/12/blog-t-15.jpg" alt="Ace Med Boards Banner" />
+</p>
+
 # Hi there 👋 I'm Simon!
 
 An aspiring Web3 developer and curious hacker on an exciting journey to build decentralized applications (dApps) and smart contracts. I thrive on experimenting with code, breaking things to learn how they work, and exploring the edges of blockchain technology.
